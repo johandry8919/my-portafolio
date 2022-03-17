@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portafolio/static/css/main.892b3b7a.css",
-    "main.js": "/my-portafolio/static/js/main.69e5779c.js",
+    "main.js": "/my-portafolio/static/js/main.8f33dfbc.js",
     "static/media/UC-frontEnd Developer.jpg": "/my-portafolio/static/media/UC-frontEnd Developer.eb49dd3c3a9a8b25dbfe.jpg",
     "static/media/UC-8ca87388-0109-47dc-9891-08820d4caad1.jpg": "/my-portafolio/static/media/UC-8ca87388-0109-47dc-9891-08820d4caad1.75d0bf9f0a94f2ddb57a.jpg",
     "static/media/UC-ee15c925-9fc9-43c7-a9e0-7515a4da4df5.jpg": "/my-portafolio/static/media/UC-ee15c925-9fc9-43c7-a9e0-7515a4da4df5.fc73a0eadf7d38f3f428.jpg",
@@ -10,10 +10,10 @@
     "static/media/157846994___n.jpg": "/my-portafolio/static/media/157846994_4003984182957058_8193577569793973483_n.63d4da62def897474af1.jpg",
     "index.html": "/my-portafolio/index.html",
     "main.892b3b7a.css.map": "/my-portafolio/static/css/main.892b3b7a.css.map",
-    "main.69e5779c.js.map": "/my-portafolio/static/js/main.69e5779c.js.map"
+    "main.8f33dfbc.js.map": "/my-portafolio/static/js/main.8f33dfbc.js.map"
   },
   "entrypoints": [
     "static/css/main.892b3b7a.css",
-    "static/js/main.69e5779c.js"
+    "static/js/main.8f33dfbc.js"
   ]
 }

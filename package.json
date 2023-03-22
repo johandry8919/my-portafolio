@@ -1,0 +1,14 @@
+{
+  "name": "johandry",
+  "version": "1.0.0",
+  "description": "my-portafolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "johandry",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
